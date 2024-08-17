@@ -2,7 +2,7 @@
 
 To begin working inside the Azure Honeynet project, we'll first need set up the virtual machines we're going to use. These VM's will be the foundation of all our projects and labs. 
 
-First, you'll need to create a virtual machine. Which you can do by visiting [This](link) link
+First, you'll need to create a virtual machine. Which you can do by visiting [this](https://portal.azure.com/) link
 
 <h2>Security metrics measurement:</h2>
 
